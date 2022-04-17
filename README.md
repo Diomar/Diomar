@@ -1,4 +1,4 @@
-### Olá 👋 me chamo Diomar Rodrigues
+### Olá 👋 me chamo Diomar Rodrigues, sou desenvolvedor web formado, apaixonado por tecnologia.
 
 <!--
 **Diomar/Diomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
